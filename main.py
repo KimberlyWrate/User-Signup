@@ -1,5 +1,6 @@
 # Kimberly Wrate
 # Lesson 2 for Udacity's web development course
+# URL: https://user-signup-144117.appspot.com
 # Sign up users
 # name, password, verify password, email
 # welcome page redirected: welcome?username=x; says, "Welcome, username!"
